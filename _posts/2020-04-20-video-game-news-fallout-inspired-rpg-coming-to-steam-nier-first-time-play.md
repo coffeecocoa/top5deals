@@ -15,7 +15,7 @@ categories: [gaming, lists]
 
 ### Video Game News:
 
-Fallout-inspired post-apocalyptic [ATOM RPG Coming to Steam Early Access](http://www.gamebanshee.com/news/123645-atom-rpg-trudograd-coming-to-steam-early-access.html) on May 11, 2020 . . . The second content patch for the early access version of post-apocalyptic [RPG Dark Crystal Games’ Encased](http://www.gamebanshee.com/news/123637-encased-content-patch-2-live.html) Content Patch 2 is now live . . . Oh my, [What a beautiful game. (Sea of thieves)](https://www.reddit.com/r/gaming/comments/g4hv8s/what_a_beautiful_game_sea_of_thieves/) . . . 
+Fallout-inspired post-apocalyptic [ATOM RPG Coming to Steam Early Access](https://www.gamebanshee.com/news/123645-atom-rpg-trudograd-coming-to-steam-early-access.html) on May 11, 2020 . . . The second content patch for the early access version of post-apocalyptic [RPG Dark Crystal Games’ Encased](https://www.gamebanshee.com/news/123637-encased-content-patch-2-live.html) Content Patch 2 is now live . . . Oh my, [What a beautiful game. (Sea of thieves)](https://www.reddit.com/r/gaming/comments/g4hv8s/what_a_beautiful_game_sea_of_thieves/) . . . 
 
 
 <p align="center">
