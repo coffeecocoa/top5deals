@@ -3,7 +3,7 @@
 title: "Top 5 Deals"
 title-font-size: '2.75em' # a provision to adjust the size of your title. If it is too long then do resize to a smaller value. By default it will be 4em.
 
-email: midorimahibiki@gmail.com
+email: norcads@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Display Top 5 curated list of deals that you can find and buy on the web.
 #baseurl: "/vyaasa"  the subpath of your site, e.g. /blog
