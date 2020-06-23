@@ -20,7 +20,8 @@ body {
     color: $text-color;
     text-rendering: optimizeLegibility;
        @include media-query($on-palm) {
-        font-size: 1em;
+        font-size: 20px;
+        /* font-size: 1em; */
     }
 }
 
