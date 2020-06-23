@@ -41,10 +41,10 @@ Di simak ya, beberapa inspirasi berikut ini bisa jadi tips hijab dan rok untuk k
 </p>
 <br>
 
-*   <b style="font-size: 22px;">Button skirt alias rok dengan detail kancing bisa kamu padukan dengan atasan bergaris untuk kesan simpel dan stylish.</b>
+*   <b style="font-size: 22px;">Rok dengan detail kancing bisa kamu padukan dengan atasan bergaris untuk kesan simpel dan stylish.</b>
 <p align="center">
     <a href="https://bit.ly/2LL90aA">
-        <img src="https://d3hctp6gkh4e3f.cloudfront.net/prod/la3uehojhh3u7tp8t39i" alt="OOTD 5 Tips Hijab dan Button skirt alias rok dengan detail kancing" title="OOTD 5 Tips Hijab dan Button skirt alias rok dengan detail kancing" width="500" />
+        <img src="https://d3hctp6gkh4e3f.cloudfront.net/prod/la3uehojhh3u7tp8t39i" alt="OOTD 5 Tips Hijab dan rok dengan detail kancing" title="OOTD 5 Tips Hijab dan Button skirt alias rok dengan detail kancing" width="500" />
     </a>
 </p>
 <br>
