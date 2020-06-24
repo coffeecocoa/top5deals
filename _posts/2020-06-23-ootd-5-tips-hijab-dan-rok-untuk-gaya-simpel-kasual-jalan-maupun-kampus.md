@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "OOTD 5 Tips Hijab dan Rok untuk Gaya Simpel Kasual Jalan maupun Kampus"
-description: Bingung milih baju buat OOTD hijab ke Kampus atau Jalan-Jalan?. Bagi yang ber hijab memang sedikit susah saat memilih baju yang pas untuk ngampus ataupun jalan. Tapi Rok bisa jadi pilihan yang tepat buat kamu loh!
+description: Tips OOTD Hijab Rok, Bingung milih baju buat OOTD hijab ke Kampus atau Jalan-Jalan?. OOTD Hijab Rok, Bagi yang ber hijab memang sedikit susah saat memilih baju yang pas untuk ngampus ataupun jalan. Tapi Rok bisa jadi pilihan yang tepat buat kamu loh!
 date: 2020-06-23 03:05:00
 published: true
 categories: [ootd,lists]
