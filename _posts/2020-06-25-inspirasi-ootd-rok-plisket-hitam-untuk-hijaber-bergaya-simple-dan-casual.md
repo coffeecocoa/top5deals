@@ -23,10 +23,10 @@ Rok pliset warna hitam dapat dipadukan dengan beragam gaya misal atasan.
 
 Nah berikut ini ada 5 inspirasi OOTD Rok Plisket Hitam bagi kamu Hijaber, Simak ya!
 
-*   <b style="font-size: 22px;">Padukan Rok Pliset dengan Kaos Putih ditambah Kemeja di bagian luar. Bisa ditambahin sneakers juga kalo pengen ke acar kasual.</b>
+*   <b style="font-size: 22px;">Padukan Rok Pliset dengan Kaos Putih ditambah Kemeja di bagian luar. Bisa ditambahin sneakers supaya tambah Casual</b>
 <p align="center">
     <a href="https://bit.ly/3g39TIR">
-        <img src="https://d3hctp6gkh4e3f.cloudfront.net/prod/op2cv1yrsqksucvqdl3d" alt="OOTD Rok Plisket, OOTD Hijab Rok, Padukan Rok Pliset dengan Kaos Putih ditambah Kemeja di bagian luar" title="OOTD Rok Plisket, Padukan Rok Pliset dengan Kaos Putih ditambah Kemeja di bagian luar" width="500" />
+        <img src="https://d3hctp6gkh4e3f.cloudfront.net/prod/op2cv1yrsqksucvqdl3d" alt="OOTD Rok Plisket, OOTD Hijab Rok, Padukan Rok Pliset dengan Kaos Putih dan Kemeja di bagian luar" title="OOTD Rok Plisket, Padukan Rok Pliset dengan Kaos Putih dan Kemeja di bagian luar" width="500" />
     </a>
 </p>
 <br>
