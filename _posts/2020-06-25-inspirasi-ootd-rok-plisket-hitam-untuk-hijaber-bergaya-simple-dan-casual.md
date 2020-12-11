@@ -31,7 +31,7 @@ Nah berikut ini ada 5 inspirasi OOTD Rok Plisket Hitam bagi kamu Hijaber, Simak 
 </p>
 
 <p align="center">
-    <a href="https://bit.ly/3h1n7WG" target="_blank">
+    <a href="https://bit.ly/2LL90aA" target="_blank">
         <img src="{{site.baseurl}}/images/las.jpg" alt="diskon fashion wanita ootd" title="diskon fashion wanita ootd" width="500" />
     </a>
 </p>
@@ -55,7 +55,7 @@ Nah berikut ini ada 5 inspirasi OOTD Rok Plisket Hitam bagi kamu Hijaber, Simak 
 </p>
 
 <p align="center">
-    <a href="https://bit.ly/3h1n7WG" target="_blank">
+    <a href="https://bit.ly/2LL90aA" target="_blank">
         <img src="{{site.baseurl}}/images/las.jpg" alt="diskon fashion wanita ootd" title="diskon fashion wanita ootd" width="500" />
     </a>
 </p>
@@ -79,7 +79,7 @@ Nah berikut ini ada 5 inspirasi OOTD Rok Plisket Hitam bagi kamu Hijaber, Simak 
 </p>
 
 <p align="center">
-    <a href="https://bit.ly/3h1n7WG" target="_blank">
+    <a href="https://bit.ly/2LL90aA" target="_blank">
         <img src="{{site.baseurl}}/images/las.jpg" alt="diskon fashion wanita ootd" title="diskon fashion wanita ootd" width="500" />
     </a>
 </p>
