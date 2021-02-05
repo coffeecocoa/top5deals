@@ -29,7 +29,7 @@ Pakai cara <b>KEDUA</b>, ini yang lebih ampuhnya menghilangkan sakit gigi bahkan
 
 Caranya ambil daun sirih secukupnya, dicuci, dipotong juga oke, masukkan ke panci campur dengan garam secukupnya, Lalu <b>REBUS</b> sampai airnya jadi setengah, paling tidak berkuranglah airnya
 
-Diamkan sampai dingin, setelah itu buat <b>KUMUR</b>
+Diamkan sampai terasa hangat, lalu di pake <b>KUMUR</b>
 
 <b>SAKIT? IYA, SEMBUH? IYA</b>
 
