@@ -17,9 +17,9 @@ layout: default
 {% include share-buttons.html %}
 
 <br><br>
-<span>YOU MIGHT ALSO LIKE</span>
+<span>Baca Juga:</span>
 
-{% assign posts = site.posts | where_exp:"post", "post.url != page.url" | sample:4 %}
+{% assign posts = site.posts | where_exp:"post", "post.url != page.url" | sample:5 %}
 {% for post in posts %}
   {% include related-post.html %}
 {% endfor %}
