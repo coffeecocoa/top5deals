@@ -24,11 +24,6 @@ Di simak ya, beberapa inspirasi berikut ini bisa jadi tips hijab dan rok untuk k
     </a>
 </p>
 
-<p align="center">
-    <a href="https://bit.ly/3oKRm7W" target="_blank">
-        <img src="https://cf.shopee.co.id/file/94a70f47482032c66aa3ae981288318f" alt="diskon fashion wanita ootd" title="diskon fashion wanita ootd" width="300" />
-    </a>
-</p>
 
 <br>
 
@@ -70,8 +65,4 @@ Di simak ya, beberapa inspirasi berikut ini bisa jadi tips hijab dan rok untuk k
     </a>
 </p>
 
-<p align="center">
-    <a href="https://bit.ly/3oKRm7W" target="_blank">
-        <img src="https://cf.shopee.co.id/file/94a70f47482032c66aa3ae981288318f" alt="diskon fashion wanita ootd" title="diskon fashion wanita ootd" width="300" />
-    </a>
-</p>
+<br>
