@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "5 Inspirasi OOTD Hijab ke pantai Untuk Hijaber Bergaya Simple dan Casual"
+title:  "5 Inspirasi OOTD Pantai Hijab Untuk Hijaber Bergaya Simple dan Casual"
 description: OOTD Hijab ke pantai memang Hijaber harus tetap terlihat sopan, tapi juga ingin gaya hijab ootd pantai yang simpel dan tidak bikin gerah...
 date: 2021-04-12 01:00:00
 published: true
